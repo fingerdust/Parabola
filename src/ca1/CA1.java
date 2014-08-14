@@ -17,7 +17,7 @@ import java.util.Random;
 public class CA1 {
 	/**
 	 * A class which contains the methods to populate an ArrayList, calculate
-	 * the Monte Carlo percentage and the area under the curve.
+	 * the Monte Carlo percentage and the area under the curve. Bla bla bla 
 	 * 
 	 * @author Mark Tobin
 	 */
