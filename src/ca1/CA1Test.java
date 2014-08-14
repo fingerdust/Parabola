@@ -29,8 +29,8 @@ public class CA1Test {
 	 */
 	public static void main(String[] args) {
 		CA1.ParaCalc pc = new CA1.ParaCalc();
-		System.out
-				.println("The area under the curve y=x^2 bounded by x=0 and x=pi");
+		pc.sayIt(); 
+		System.out.println("The area under the curve y=x^2 bounded by x=0 and x=pi");
 		System.out.print("Estimated using the Monte Carlo method:	");
 		System.out.println(pc.findArea());
 		System.out.print("Solved by analysis of INT(x^2)dx|x=0 to x=pi:	");

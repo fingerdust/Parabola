@@ -82,5 +82,8 @@ public class CA1 {
 			double areaCalc = (area * percentage) / 100; // Area under curve.
 			return areaCalc;
 		}
+		public void sayIt(){
+			System.out.println("Say IT!"); 
+		}
 	}
 }
